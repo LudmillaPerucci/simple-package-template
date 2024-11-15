@@ -1,6 +1,6 @@
-# pip
+# PIP INSTALL
 
-## Installation
+## To install
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
