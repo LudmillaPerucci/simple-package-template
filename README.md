@@ -1,4 +1,4 @@
-# pip install
+# pip
 
 ## Installation
 
